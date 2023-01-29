@@ -1,5 +1,20 @@
+@font-face {
+  font-family: 'Point';
+  src: local('Point'), url(./assets/fonts/PointBook.otf) format('woff');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+html,body{
+  overflow-y: none !important;
+}
+.bg-lightdark{
+  background: #2E2E2E;
+}
+
 .App {
-  text-align: center;
+  text-align: center;    background: #171717;
+  font-family: 'Point';
 }
 
 .App-logo {
@@ -14,7 +29,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: #EDEDED;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

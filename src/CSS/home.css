@@ -1,0 +1,21 @@
+.home .card{
+    width: 70%;
+}
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home .card .card-body .gun-input{
+    width: 50%;
+}
+.home .card .card-body {
+    width: 100%;
+    display: flex;
+
+}
+.home .calculation{
+    display: flex;
+    justify-content: center;
+}

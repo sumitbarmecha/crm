@@ -1,0 +1,74 @@
+.membercard{
+  background: #282828;
+
+}
+ .member-title{
+    font-family: 'Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+}
+ .form-inline  input {
+    width: 202px;
+height: 34px;
+border: 0px;
+background: #2E2E2E;
+border-radius: 6px;
+}
+ .bhavna{
+    font-family: 'Point';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;}
+
+.members .memberdetails .info img{
+    width: 69px;
+height: 69px;
+object-fit: cover;
+}
+.memberdetails .info .creds {
+    font-family: 'Point';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.63);
+
+}
+
+
+/* membersdetail css */
+.membersdetail .info img{
+    width: 129px;
+height: 129px;
+object-fit: cover;
+}
+.membersdetail .info .name{
+    font-family: 'Point';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+}
+
+.membersdetail .appointmentdetails .appointments{
+    font-family: 'Point';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+}
+
+
+  .btn-green{
+    width: 187px;
+height: 46px;
+
+
+background: #24CE85;
+border-radius: 3px;
+}
